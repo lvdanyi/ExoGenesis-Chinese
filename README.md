@@ -1,3 +1,7 @@
+绿弹易个人汉化 欢迎各位修正补充翻译内容
+主页 https://space.bilibili.com/675962318
+原MOD作者页面: https://github.com/aureusstratus/exogenesis
+
 # Exogenesis
 
 My discord AureusAltirius#6109
