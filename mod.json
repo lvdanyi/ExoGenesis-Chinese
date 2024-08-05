@@ -1,8 +1,8 @@
 {
-  "displayName": "[cyan]Exogenesis",
-  "name": "exogenesis",
-  "author": "[blue]AureusStratus",
-  "description": "A mod that adds in a butt load of content",
+  "displayName": "[cyan]Exogenesis汉化",
+  "name": "exogenesis-zh-cn",
+  "author": "[blue]AureusStratus-绿弹易汉化",
+  "description": "A mod that adds in a butt load of content 绿弹易汉化嵌字+Googel翻译",
   "minGameVersion": "137",
   "version": "[blue]1.9.1"
 }
